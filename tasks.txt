@@ -1,0 +1,10 @@
+[
+  {
+    "task": "geekster class 8pm",
+    "completed": true
+  },
+  {
+    "task": "booster class 10pm",
+    "completed": false
+  }
+]
